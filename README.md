@@ -6,6 +6,12 @@ You are free to add any package you need (helpers, UI library, date formatter, h
 
 For each instruction you decide on how the interface should look like.
 
+## How to submit
+
+- Fork the repository
+- Create a branch `submission`
+- Create a pull request to `master` on your forked repository
+
 ## Instructions
 
 ### Doctors availabilities page
