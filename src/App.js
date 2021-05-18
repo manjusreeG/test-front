@@ -1,4 +1,5 @@
 import "./App.css";
+import Availability from "./Components/Availability";
 
 function App() {
   return (
@@ -7,6 +8,9 @@ function App() {
         <img src="/joovence-logo.png" className="logo" alt="logo" />
         <h1>Bookings</h1>
       </header>
+      <body>
+        <Availability />
+      </body>
     </div>
   );
 }
